@@ -38,14 +38,14 @@ $ pip3 install -r requirements.txt
 # Getting started
 
 ```
-$ python3 bamf.py --K [your-criminalip-api-key]
+$ python3 routector.py --K [your-criminalip-api-key]
 ```
 
 
 # Optional Arguments
 | Flag                  | MetaVar              | Usage                                                        |
 | --------------------- | -------------------- | ------------------------------------------------------------ |
-| `-K/--key`           | **API key**          | python3 bamf.py -K abcdefg... |
+| `-K/--key`           | **API key**          | python3 routector.py -K abcdefg... |
 
 
 
